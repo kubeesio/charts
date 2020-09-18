@@ -1,0 +1,52 @@
+apiVersion: v1
+entries:
+  kubees-agent:
+  - apiVersion: v2
+    appVersion: 58.0.0
+    created: "2020-09-18T16:37:55.822504479Z"
+    description: A Helm chart for Kubernetes
+    digest: 8b8d380c6ce63dee3770cc979125065047fe4b575459f5e029de07e36b61fa7a
+    name: kubees-agent
+    type: application
+    urls:
+    - https://charts.kubees.io/kubees-agent-58.0.0.tgz
+    version: 58.0.0
+  kubees-api:
+  - apiVersion: v1
+    appVersion: 58.0.0
+    created: "2020-09-18T16:37:55.826855858Z"
+    dependencies:
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.X.X
+    description: A Helm chart for deploying Kubees API to Kubernetes
+    digest: 1cd4ea0ebf30171104fea02e94caac8cf9258338c660de58e16753678eb19183
+    home: https://github.com/kubeesio/kubees
+    name: kubees-api
+    sources:
+    - https://github.com/kubeesio/kubees
+    urls:
+    - https://charts.kubees.io/kubees-api-58.0.0.tgz
+    version: 58.0.0
+  nats-account-server:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-09-18T16:37:55.82717395Z"
+    description: A Helm chart for Kubernetes
+    digest: e5b62870dcc241402c8966689f02667baf3345a1af4224d8bdaf54044b944f70
+    name: nats-account-server
+    urls:
+    - https://charts.kubees.io/nats-account-server-0.1.0.tgz
+    version: 0.1.0
+  nats-server:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-09-18T16:37:55.827460182Z"
+    description: A Helm chart for Kubernetes
+    digest: 48e8562c552f8324ec129d066a9b7d65389c440373b5de66dad7db95512024ce
+    name: nats-server
+    urls:
+    - https://charts.kubees.io/nats-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-18T16:37:55.821080018Z"
