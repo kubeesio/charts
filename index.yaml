@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   kubees-agent:
   - apiVersion: v2
+    appVersion: 0.2.1-develop.65
+    created: "2020-12-02T13:06:57.246318628Z"
+    description: A Helm chart for Kubernetes
+    digest: 1645dff3f9e2a4efc5769450fbc0a3feba34ac8afa4cbf6c4b79acf9b365c93e
+    name: kubees-agent
+    type: application
+    urls:
+    - https://charts.kubees.io/kubees-agent-0.2.1-develop.65.tgz
+    version: 0.2.1-develop.65
+  - apiVersion: v2
     appVersion: 0.2.1-develop.64
-    created: "2020-12-02T12:09:51.840136077Z"
+    created: "2020-12-02T13:06:57.245797349Z"
     description: A Helm chart for Kubernetes
     digest: ac0889e7739fde81833cc4a83c0011a2192a963f353696969fe9010cf9dcdeec
     name: kubees-agent
@@ -13,7 +23,7 @@ entries:
     version: 0.2.1-develop.64
   - apiVersion: v2
     appVersion: 0.2.1-develop.63
-    created: "2020-12-02T12:09:51.839627084Z"
+    created: "2020-12-02T13:06:57.24520317Z"
     description: A Helm chart for Kubernetes
     digest: afd5d481d934aa3409d726818cfe2f5ccb0723ac60a59dce5187d8cc59dd6c4c
     name: kubees-agent
@@ -23,7 +33,7 @@ entries:
     version: 0.2.1-develop.63
   - apiVersion: v2
     appVersion: 0.2.1-develop.62
-    created: "2020-12-02T12:09:51.839161373Z"
+    created: "2020-12-02T13:06:57.244362827Z"
     description: A Helm chart for Kubernetes
     digest: 9f3099d374210b85e529bde55cd05c6cad96d054dc79af7042b45a142b48f4a7
     name: kubees-agent
@@ -33,7 +43,7 @@ entries:
     version: 0.2.1-develop.62
   - apiVersion: v2
     appVersion: 0.2.1-develop.61
-    created: "2020-12-02T12:09:51.838640283Z"
+    created: "2020-12-02T13:06:57.243876682Z"
     description: A Helm chart for Kubernetes
     digest: e1cc0542cd2eeb3230ccc06217e1476d1e73746312c228ba1fb1411e9a8fd80d
     name: kubees-agent
@@ -43,7 +53,7 @@ entries:
     version: 0.2.1-develop.61
   - apiVersion: v2
     appVersion: 0.2.1-develop.60
-    created: "2020-12-02T12:09:51.83814595Z"
+    created: "2020-12-02T13:06:57.243381186Z"
     description: A Helm chart for Kubernetes
     digest: c2554fd5d09a0b5224c19643d39016416b4388d22a40ca06eebdb4ef71bd4870
     name: kubees-agent
@@ -53,7 +63,7 @@ entries:
     version: 0.2.1-develop.60
   - apiVersion: v2
     appVersion: 0.2.1-develop.59
-    created: "2020-12-02T12:09:51.837570149Z"
+    created: "2020-12-02T13:06:57.242899729Z"
     description: A Helm chart for Kubernetes
     digest: 70dd4ab48c00d6e8d8bba450b75ef008de0814ffdbad3715d00e6c16538320fa
     name: kubees-agent
@@ -63,7 +73,7 @@ entries:
     version: 0.2.1-develop.59
   - apiVersion: v2
     appVersion: 0.2.1-develop.58
-    created: "2020-12-02T12:09:51.836414682Z"
+    created: "2020-12-02T13:06:57.242425807Z"
     description: A Helm chart for Kubernetes
     digest: 5b72f10efabddf92d0c51b3526a85addb401ecb671f43f44b02aeab92de4cd1f
     name: kubees-agent
@@ -73,7 +83,7 @@ entries:
     version: 0.2.1-develop.58
   - apiVersion: v2
     appVersion: 0.2.1-develop.57
-    created: "2020-12-02T12:09:51.832671374Z"
+    created: "2020-12-02T13:06:57.24193677Z"
     description: A Helm chart for Kubernetes
     digest: 070fba997456076d17adcf519fc8c364bd27d2ecd0e632967661b653f908869a
     name: kubees-agent
@@ -83,7 +93,7 @@ entries:
     version: 0.2.1-develop.57
   - apiVersion: v2
     appVersion: 0.2.1-develop.56
-    created: "2020-12-02T12:09:51.831454583Z"
+    created: "2020-12-02T13:06:57.241407655Z"
     description: A Helm chart for Kubernetes
     digest: b457c31c6b256beb539af93ba673bad85529c69941b4fc1aea872dfcd5b87d6a
     name: kubees-agent
@@ -93,7 +103,7 @@ entries:
     version: 0.2.1-develop.56
   - apiVersion: v2
     appVersion: 0.2.1-develop.55
-    created: "2020-12-02T12:09:51.829999666Z"
+    created: "2020-12-02T13:06:57.240714797Z"
     description: A Helm chart for Kubernetes
     digest: 551bea8dab8e9cfadca257095f31fa762b47ae5ed5a04eb701f90b1978553b08
     name: kubees-agent
@@ -103,7 +113,7 @@ entries:
     version: 0.2.1-develop.55
   - apiVersion: v2
     appVersion: 0.2.1-develop.54
-    created: "2020-12-02T12:09:51.828699306Z"
+    created: "2020-12-02T13:06:57.23937896Z"
     description: A Helm chart for Kubernetes
     digest: bdbca14fcb1a7e5c7c53eb90fd15339892c79bf9fdcbe0e81c9492bc6a3820f4
     name: kubees-agent
@@ -113,7 +123,7 @@ entries:
     version: 0.2.1-develop.54
   - apiVersion: v2
     appVersion: 0.2.1-develop.53
-    created: "2020-12-02T12:09:51.828138269Z"
+    created: "2020-12-02T13:06:57.238311899Z"
     description: A Helm chart for Kubernetes
     digest: d95a5e96e83bd8bb36aa5195441fa0ac4b171fe67fb2ec00e321c9fd113ccb18
     name: kubees-agent
@@ -123,7 +133,7 @@ entries:
     version: 0.2.1-develop.53
   - apiVersion: v2
     appVersion: 0.2.1-develop.52
-    created: "2020-12-02T12:09:51.825971956Z"
+    created: "2020-12-02T13:06:57.237253529Z"
     description: A Helm chart for Kubernetes
     digest: 2c68732ae1d59688f5aef6e1704b2c97cd0a6c65f2fd3b362902d16bf33bf5d7
     name: kubees-agent
@@ -133,7 +143,7 @@ entries:
     version: 0.2.1-develop.52
   - apiVersion: v2
     appVersion: 0.2.1-develop.51
-    created: "2020-12-02T12:09:51.825498149Z"
+    created: "2020-12-02T13:06:57.235770709Z"
     description: A Helm chart for Kubernetes
     digest: c9048a54aad124eb7cb623fab4cb548c4d812360ddd77f3609a7273274db3251
     name: kubees-agent
@@ -143,7 +153,7 @@ entries:
     version: 0.2.1-develop.51
   - apiVersion: v2
     appVersion: 0.2.1-develop.50
-    created: "2020-12-02T12:09:51.825000626Z"
+    created: "2020-12-02T13:06:57.234902419Z"
     description: A Helm chart for Kubernetes
     digest: 4a2f56aaa0e426fb0f24b9db6f07cf1c98fb80e266f3479a6c0e4a5fc82a21b2
     name: kubees-agent
@@ -153,7 +163,7 @@ entries:
     version: 0.2.1-develop.50
   - apiVersion: v2
     appVersion: 0.2.1-develop.49
-    created: "2020-12-02T12:09:51.82448419Z"
+    created: "2020-12-02T13:06:57.234443826Z"
     description: A Helm chart for Kubernetes
     digest: ea7bb70244f9fd0c744fc7df14ade2dee3f5b44084a9a1a1907a1d79c7359af9
     name: kubees-agent
@@ -163,7 +173,7 @@ entries:
     version: 0.2.1-develop.49
   - apiVersion: v2
     appVersion: 0.2.1-develop.48
-    created: "2020-12-02T12:09:51.823547904Z"
+    created: "2020-12-02T13:06:57.233970959Z"
     description: A Helm chart for Kubernetes
     digest: f626632703c50967390b9162a05daec226de620425274eb43a0a59c82ceaaa78
     name: kubees-agent
@@ -173,7 +183,7 @@ entries:
     version: 0.2.1-develop.48
   - apiVersion: v2
     appVersion: 0.2.1-develop.47
-    created: "2020-12-02T12:09:51.823079873Z"
+    created: "2020-12-02T13:06:57.233497832Z"
     description: A Helm chart for Kubernetes
     digest: b24d8286b379025f46f87438e3ea94404227c616eb21279e1b910d65b323ad06
     name: kubees-agent
@@ -183,7 +193,7 @@ entries:
     version: 0.2.1-develop.47
   - apiVersion: v2
     appVersion: 0.2.1-develop.46
-    created: "2020-12-02T12:09:51.822503195Z"
+    created: "2020-12-02T13:06:57.23286017Z"
     description: A Helm chart for Kubernetes
     digest: eef98ab0a6cc68303e38af901e7f5c2d94c27b429945e2e8e15094be7ab4faf7
     name: kubees-agent
@@ -193,7 +203,7 @@ entries:
     version: 0.2.1-develop.46
   - apiVersion: v2
     appVersion: 0.2.1-develop.45
-    created: "2020-12-02T12:09:51.820937166Z"
+    created: "2020-12-02T13:06:57.232330731Z"
     description: A Helm chart for Kubernetes
     digest: 2c17fa69726cdd6291b31921e708e166d714b7df25120e93af87fcac78964244
     name: kubees-agent
@@ -203,7 +213,7 @@ entries:
     version: 0.2.1-develop.45
   - apiVersion: v2
     appVersion: 0.2.1-develop.44
-    created: "2020-12-02T12:09:51.820381478Z"
+    created: "2020-12-02T13:06:57.231886614Z"
     description: A Helm chart for Kubernetes
     digest: 8abd22403f463442de81f09d746152f2d86819a49cca7e31ebd19efba57dee46
     name: kubees-agent
@@ -213,7 +223,7 @@ entries:
     version: 0.2.1-develop.44
   - apiVersion: v2
     appVersion: 0.2.1-develop.43
-    created: "2020-12-02T12:09:51.819559985Z"
+    created: "2020-12-02T13:06:57.231434304Z"
     description: A Helm chart for Kubernetes
     digest: e0cbd6cc40721244ef953922ed296884106bcbab068d97f837a06a083475605d
     name: kubees-agent
@@ -223,7 +233,7 @@ entries:
     version: 0.2.1-develop.43
   - apiVersion: v2
     appVersion: 0.2.1-develop.42
-    created: "2020-12-02T12:09:51.819074377Z"
+    created: "2020-12-02T13:06:57.230977565Z"
     description: A Helm chart for Kubernetes
     digest: b04319e5a516624ee9e22daf9a5c9e1f3b176c45ed10cd9dd4934cae428c9ddd
     name: kubees-agent
@@ -233,7 +243,7 @@ entries:
     version: 0.2.1-develop.42
   - apiVersion: v2
     appVersion: 0.2.1-develop.41
-    created: "2020-12-02T12:09:51.818284467Z"
+    created: "2020-12-02T13:06:57.230516496Z"
     description: A Helm chart for Kubernetes
     digest: b92085c657f9e81607f712934ea1bbf83343789b58ebbc2ceabbf41bcfb2306e
     name: kubees-agent
@@ -243,7 +253,7 @@ entries:
     version: 0.2.1-develop.41
   - apiVersion: v2
     appVersion: 0.2.1-develop.40
-    created: "2020-12-02T12:09:51.817432507Z"
+    created: "2020-12-02T13:06:57.230057158Z"
     description: A Helm chart for Kubernetes
     digest: 36274018a7b2545c83dd627afeea09c8cafe84177b4c43061e465ff7aeeabd9c
     name: kubees-agent
@@ -253,7 +263,7 @@ entries:
     version: 0.2.1-develop.40
   - apiVersion: v2
     appVersion: 0.2.1-develop.39
-    created: "2020-12-02T12:09:51.816932125Z"
+    created: "2020-12-02T13:06:57.229606723Z"
     description: A Helm chart for Kubernetes
     digest: d5f7eeb0287873619b049d39ee5a6cc0bf6b5e5f97d1d24c4a9c564aaed46ae2
     name: kubees-agent
@@ -263,7 +273,7 @@ entries:
     version: 0.2.1-develop.39
   - apiVersion: v2
     appVersion: 0.2.1-develop.38
-    created: "2020-12-02T12:09:51.816371871Z"
+    created: "2020-12-02T13:06:57.22915387Z"
     description: A Helm chart for Kubernetes
     digest: 17051251177d45946afc9ec52e3d30665e058ba7182afa4ef1aa6ecad0503900
     name: kubees-agent
@@ -273,7 +283,7 @@ entries:
     version: 0.2.1-develop.38
   - apiVersion: v2
     appVersion: 0.2.1-develop.37
-    created: "2020-12-02T12:09:51.815872299Z"
+    created: "2020-12-02T13:06:57.228701652Z"
     description: A Helm chart for Kubernetes
     digest: 99b86285d28b7fea13939504b6ffdbae3dbf43c11a56232f09be6391e8f350d5
     name: kubees-agent
@@ -283,7 +293,7 @@ entries:
     version: 0.2.1-develop.37
   - apiVersion: v2
     appVersion: 0.2.1-develop.36
-    created: "2020-12-02T12:09:51.815254271Z"
+    created: "2020-12-02T13:06:57.228176031Z"
     description: A Helm chart for Kubernetes
     digest: 76149480c2551cbf4552663bd2e6d2766482426d98ceb1e27b3c3e09cd37bcb1
     name: kubees-agent
@@ -293,7 +303,7 @@ entries:
     version: 0.2.1-develop.36
   - apiVersion: v2
     appVersion: 0.2.1-develop.35
-    created: "2020-12-02T12:09:51.812040695Z"
+    created: "2020-12-02T13:06:57.227676287Z"
     description: A Helm chart for Kubernetes
     digest: dc4f4189a870872cf421dc339372baf55773849859d9664be2199c0eb95f3f63
     name: kubees-agent
@@ -303,7 +313,7 @@ entries:
     version: 0.2.1-develop.35
   - apiVersion: v2
     appVersion: 0.2.1-develop.34
-    created: "2020-12-02T12:09:51.810881654Z"
+    created: "2020-12-02T13:06:57.227046247Z"
     description: A Helm chart for Kubernetes
     digest: f0bc98d590abc8c8f66097713829765871164a497b53123ccae60512e7bd7db9
     name: kubees-agent
@@ -313,7 +323,7 @@ entries:
     version: 0.2.1-develop.34
   - apiVersion: v2
     appVersion: 0.2.1-develop.33
-    created: "2020-12-02T12:09:51.809457896Z"
+    created: "2020-12-02T13:06:57.226443674Z"
     description: A Helm chart for Kubernetes
     digest: ce1fb6581a9459a531d0dc34fca3386a260f03786b0f19c14bb72cc0a8c09b4a
     name: kubees-agent
@@ -323,7 +333,7 @@ entries:
     version: 0.2.1-develop.33
   - apiVersion: v2
     appVersion: 0.2.1-develop.32
-    created: "2020-12-02T12:09:51.807874181Z"
+    created: "2020-12-02T13:06:57.225854089Z"
     description: A Helm chart for Kubernetes
     digest: 67485b88354273e3bcb6115e36e00b68f8687e914e479449b4b81e20f66e2246
     name: kubees-agent
@@ -333,7 +343,7 @@ entries:
     version: 0.2.1-develop.32
   - apiVersion: v2
     appVersion: 0.2.1-develop.31
-    created: "2020-12-02T12:09:51.807350497Z"
+    created: "2020-12-02T13:06:57.224490883Z"
     description: A Helm chart for Kubernetes
     digest: c3bcdb01b8975a42bd981d73d405523ac79eda4dd6a5d63ad626db639fde2c04
     name: kubees-agent
@@ -343,7 +353,7 @@ entries:
     version: 0.2.1-develop.31
   - apiVersion: v2
     appVersion: 0.2.1-develop.30
-    created: "2020-12-02T12:09:51.80521159Z"
+    created: "2020-12-02T13:06:57.223392086Z"
     description: A Helm chart for Kubernetes
     digest: 31cf26c1d3d5ce6117c35f376d42d96db2d2173a9f82f0beb911883be5c5fb6c
     name: kubees-agent
@@ -353,7 +363,7 @@ entries:
     version: 0.2.1-develop.30
   - apiVersion: v2
     appVersion: 0.2.1-develop.29
-    created: "2020-12-02T12:09:51.804698776Z"
+    created: "2020-12-02T13:06:57.222300672Z"
     description: A Helm chart for Kubernetes
     digest: 367a9178e266c5370bf85b88ef3f1cd599b6e6889efd318a3a0324f601898107
     name: kubees-agent
@@ -363,7 +373,7 @@ entries:
     version: 0.2.1-develop.29
   - apiVersion: v2
     appVersion: 0.2.1-develop.28
-    created: "2020-12-02T12:09:51.804167282Z"
+    created: "2020-12-02T13:06:57.220912618Z"
     description: A Helm chart for Kubernetes
     digest: 546158370d31925834bdabbc35703e6bf24f57e2e672cf2476eaa2e649a4bd29
     name: kubees-agent
@@ -373,7 +383,7 @@ entries:
     version: 0.2.1-develop.28
   - apiVersion: v2
     appVersion: 0.2.1-develop.27
-    created: "2020-12-02T12:09:51.803640596Z"
+    created: "2020-12-02T13:06:57.220360767Z"
     description: A Helm chart for Kubernetes
     digest: 52c1a23f196d7f01201515f4b54689649159c024fce93015154f3550de2f2923
     name: kubees-agent
@@ -383,7 +393,7 @@ entries:
     version: 0.2.1-develop.27
   - apiVersion: v2
     appVersion: 0.2.1-develop.26
-    created: "2020-12-02T12:09:51.803137429Z"
+    created: "2020-12-02T13:06:57.218949091Z"
     description: A Helm chart for Kubernetes
     digest: c09563a03e699ef9716ddea708b6cba9614d50eea1c6298acc1c74451ccc31d9
     name: kubees-agent
@@ -393,7 +403,7 @@ entries:
     version: 0.2.1-develop.26
   - apiVersion: v2
     appVersion: 0.2.1-develop.25
-    created: "2020-12-02T12:09:51.802569091Z"
+    created: "2020-12-02T13:06:57.218241664Z"
     description: A Helm chart for Kubernetes
     digest: 09ea01c2d22473a31e686cbbd63762cd3c7a1ac17d67e209cdc2d800002177b2
     name: kubees-agent
@@ -403,7 +413,7 @@ entries:
     version: 0.2.1-develop.25
   - apiVersion: v2
     appVersion: 0.2.1-develop.24
-    created: "2020-12-02T12:09:51.801889716Z"
+    created: "2020-12-02T13:06:57.217722311Z"
     description: A Helm chart for Kubernetes
     digest: c21ad0d27556e97644e0bb2ec2088260a55a1d061621b97f84704525c33a2464
     name: kubees-agent
@@ -413,7 +423,7 @@ entries:
     version: 0.2.1-develop.24
   - apiVersion: v2
     appVersion: 0.2.1-develop.23
-    created: "2020-12-02T12:09:51.8007901Z"
+    created: "2020-12-02T13:06:57.217218803Z"
     description: A Helm chart for Kubernetes
     digest: 70854b2ced72367d3ba943a88a1b19783a928ec1d95690825617c350b54d7701
     name: kubees-agent
@@ -423,7 +433,7 @@ entries:
     version: 0.2.1-develop.23
   - apiVersion: v2
     appVersion: 0.2.1-develop.22
-    created: "2020-12-02T12:09:51.800198376Z"
+    created: "2020-12-02T13:06:57.216692279Z"
     description: A Helm chart for Kubernetes
     digest: c12e1a33e61d214e092fb111ba250abeffc7bd58d12fd0290cd2c3e1e9b6e151
     name: kubees-agent
@@ -433,7 +443,7 @@ entries:
     version: 0.2.1-develop.22
   - apiVersion: v2
     appVersion: 0.2.1-develop.21
-    created: "2020-12-02T12:09:51.798031584Z"
+    created: "2020-12-02T13:06:57.216157178Z"
     description: A Helm chart for Kubernetes
     digest: 3809b422b282bccc1e58b58f7b0794df5206bbc798e607f466d6ad9c9aa5302d
     name: kubees-agent
@@ -443,7 +453,7 @@ entries:
     version: 0.2.1-develop.21
   - apiVersion: v2
     appVersion: 0.2.1-develop.20
-    created: "2020-12-02T12:09:51.797542358Z"
+    created: "2020-12-02T13:06:57.215536059Z"
     description: A Helm chart for Kubernetes
     digest: 8c0805c44ebbc800c1a3d5e7931a8e46d47a60fcfac83b5ca27dd1261e953a5a
     name: kubees-agent
@@ -453,7 +463,7 @@ entries:
     version: 0.2.1-develop.20
   - apiVersion: v2
     appVersion: 0.2.1-develop.19
-    created: "2020-12-02T12:09:51.797080588Z"
+    created: "2020-12-02T13:06:57.215073908Z"
     description: A Helm chart for Kubernetes
     digest: 63c3075d9b8ceba128f77af581e60539b5f7eae653333c55b18ca80136b05176
     name: kubees-agent
@@ -463,7 +473,7 @@ entries:
     version: 0.2.1-develop.19
   - apiVersion: v2
     appVersion: 0.2.1-develop.18
-    created: "2020-12-02T12:09:51.796550387Z"
+    created: "2020-12-02T13:06:57.214582044Z"
     description: A Helm chart for Kubernetes
     digest: fac0a3dcb0408ea25ee826f1952bf59ab1cf4b9cbf4cc7c0d345547bdd880b91
     name: kubees-agent
@@ -473,7 +483,7 @@ entries:
     version: 0.2.1-develop.18
   - apiVersion: v2
     appVersion: 0.2.1-develop.17
-    created: "2020-12-02T12:09:51.796061651Z"
+    created: "2020-12-02T13:06:57.214105598Z"
     description: A Helm chart for Kubernetes
     digest: 005f7f7dc3baf4fe7ddfc243e5f4f1ed2cc88af017656c6866b3a4d7545dbe0c
     name: kubees-agent
@@ -483,7 +493,7 @@ entries:
     version: 0.2.1-develop.17
   - apiVersion: v2
     appVersion: 0.2.1-develop.16
-    created: "2020-12-02T12:09:51.795050109Z"
+    created: "2020-12-02T13:06:57.213643561Z"
     description: A Helm chart for Kubernetes
     digest: 1930f42c3daaef8b8f6198b8bd523d021beb6a85d5a13a084f5231928a97c2f3
     name: kubees-agent
@@ -493,7 +503,7 @@ entries:
     version: 0.2.1-develop.16
   - apiVersion: v2
     appVersion: 0.2.1-develop.15
-    created: "2020-12-02T12:09:51.794566755Z"
+    created: "2020-12-02T13:06:57.213217697Z"
     description: A Helm chart for Kubernetes
     digest: 197e481ec071fab0419e5e4847c1cb86323da752c42ce164b3db54aa2ad29012
     name: kubees-agent
@@ -503,7 +513,7 @@ entries:
     version: 0.2.1-develop.15
   - apiVersion: v2
     appVersion: 0.2.1-develop.14
-    created: "2020-12-02T12:09:51.791872073Z"
+    created: "2020-12-02T13:06:57.212778077Z"
     description: A Helm chart for Kubernetes
     digest: 10708ae22004d236676c8ef28fa8e6639b67c01414e9a6ae2094f30b9fff8f5e
     name: kubees-agent
@@ -513,7 +523,7 @@ entries:
     version: 0.2.1-develop.14
   - apiVersion: v2
     appVersion: 0.2.1-develop.13
-    created: "2020-12-02T12:09:51.790983537Z"
+    created: "2020-12-02T13:06:57.212280834Z"
     description: A Helm chart for Kubernetes
     digest: 652dee4c7b9242f0900f44387f7eb4c9611799d0f7ed4a85730e53a01ee69241
     name: kubees-agent
@@ -523,7 +533,7 @@ entries:
     version: 0.2.1-develop.13
   - apiVersion: v2
     appVersion: 0.2.1-develop.12
-    created: "2020-12-02T12:09:51.790091367Z"
+    created: "2020-12-02T13:06:57.211786445Z"
     description: A Helm chart for Kubernetes
     digest: 53c7bdf0f69b0897ae4dae8effd294f9fe6d87e06fefef5c9d90dcafeb122da7
     name: kubees-agent
@@ -533,8 +543,25 @@ entries:
     version: 0.2.1-develop.12
   kubees-api:
   - apiVersion: v1
+    appVersion: 0.2.1-develop.65
+    created: "2020-12-02T13:06:57.579219552Z"
+    dependencies:
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.X.X
+    description: A Helm chart for deploying Kubees API to Kubernetes
+    digest: d5e97c0f370cde62490815c243e308aba0cf6f10e4f785a7d2ddc8c8bf4f173b
+    home: https://github.com/kubeesio/kubees
+    name: kubees-api
+    sources:
+    - https://github.com/kubeesio/kubees
+    urls:
+    - https://charts.kubees.io/kubees-api-0.2.1-develop.65.tgz
+    version: 0.2.1-develop.65
+  - apiVersion: v1
     appVersion: 0.2.1-develop.64
-    created: "2020-12-02T12:09:52.28206822Z"
+    created: "2020-12-02T13:06:57.569134971Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -551,7 +578,7 @@ entries:
     version: 0.2.1-develop.64
   - apiVersion: v1
     appVersion: 0.2.1-develop.63
-    created: "2020-12-02T12:09:52.276186225Z"
+    created: "2020-12-02T13:06:57.56427742Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -568,7 +595,7 @@ entries:
     version: 0.2.1-develop.63
   - apiVersion: v1
     appVersion: 0.2.1-develop.62
-    created: "2020-12-02T12:09:52.270087799Z"
+    created: "2020-12-02T13:06:57.557640567Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -585,7 +612,7 @@ entries:
     version: 0.2.1-develop.62
   - apiVersion: v1
     appVersion: 0.2.1-develop.61
-    created: "2020-12-02T12:09:52.26028837Z"
+    created: "2020-12-02T13:06:57.550197989Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -602,7 +629,7 @@ entries:
     version: 0.2.1-develop.61
   - apiVersion: v1
     appVersion: 0.2.1-develop.60
-    created: "2020-12-02T12:09:52.25451978Z"
+    created: "2020-12-02T13:06:57.545075752Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -619,7 +646,7 @@ entries:
     version: 0.2.1-develop.60
   - apiVersion: v1
     appVersion: 0.2.1-develop.59
-    created: "2020-12-02T12:09:52.247433956Z"
+    created: "2020-12-02T13:06:57.537293535Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -636,7 +663,7 @@ entries:
     version: 0.2.1-develop.59
   - apiVersion: v1
     appVersion: 0.2.1-develop.58
-    created: "2020-12-02T12:09:52.24051557Z"
+    created: "2020-12-02T13:06:57.532495672Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -653,7 +680,7 @@ entries:
     version: 0.2.1-develop.58
   - apiVersion: v1
     appVersion: 0.2.1-develop.57
-    created: "2020-12-02T12:09:52.23463435Z"
+    created: "2020-12-02T13:06:57.526342347Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -670,7 +697,7 @@ entries:
     version: 0.2.1-develop.57
   - apiVersion: v1
     appVersion: 0.2.1-develop.56
-    created: "2020-12-02T12:09:52.225472953Z"
+    created: "2020-12-02T13:06:57.519723066Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -687,7 +714,7 @@ entries:
     version: 0.2.1-develop.56
   - apiVersion: v1
     appVersion: 0.2.1-develop.55
-    created: "2020-12-02T12:09:52.219414388Z"
+    created: "2020-12-02T13:06:57.514731273Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -704,7 +731,7 @@ entries:
     version: 0.2.1-develop.55
   - apiVersion: v1
     appVersion: 0.2.1-develop.54
-    created: "2020-12-02T12:09:52.213447711Z"
+    created: "2020-12-02T13:06:57.506453417Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -721,7 +748,7 @@ entries:
     version: 0.2.1-develop.54
   - apiVersion: v1
     appVersion: 0.2.1-develop.53
-    created: "2020-12-02T12:09:52.200431951Z"
+    created: "2020-12-02T13:06:57.501458547Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -738,7 +765,7 @@ entries:
     version: 0.2.1-develop.53
   - apiVersion: v1
     appVersion: 0.2.1-develop.52
-    created: "2020-12-02T12:09:52.195098425Z"
+    created: "2020-12-02T13:06:57.496810938Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -755,7 +782,7 @@ entries:
     version: 0.2.1-develop.52
   - apiVersion: v1
     appVersion: 0.2.1-develop.51
-    created: "2020-12-02T12:09:52.187521587Z"
+    created: "2020-12-02T13:06:57.490168501Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -772,7 +799,7 @@ entries:
     version: 0.2.1-develop.51
   - apiVersion: v1
     appVersion: 0.2.1-develop.50
-    created: "2020-12-02T12:09:52.180283792Z"
+    created: "2020-12-02T13:06:57.484569338Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -789,7 +816,7 @@ entries:
     version: 0.2.1-develop.50
   - apiVersion: v1
     appVersion: 0.2.1-develop.49
-    created: "2020-12-02T12:09:52.174857705Z"
+    created: "2020-12-02T13:06:57.479708623Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -806,7 +833,7 @@ entries:
     version: 0.2.1-develop.49
   - apiVersion: v1
     appVersion: 0.2.1-develop.48
-    created: "2020-12-02T12:09:52.163487971Z"
+    created: "2020-12-02T13:06:57.471975111Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -823,7 +850,7 @@ entries:
     version: 0.2.1-develop.48
   - apiVersion: v1
     appVersion: 0.2.1-develop.47
-    created: "2020-12-02T12:09:52.156599216Z"
+    created: "2020-12-02T13:06:57.467215094Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -840,7 +867,7 @@ entries:
     version: 0.2.1-develop.47
   - apiVersion: v1
     appVersion: 0.2.1-develop.46
-    created: "2020-12-02T12:09:52.149626868Z"
+    created: "2020-12-02T13:06:57.461500126Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -857,7 +884,7 @@ entries:
     version: 0.2.1-develop.46
   - apiVersion: v1
     appVersion: 0.2.1-develop.45
-    created: "2020-12-02T12:09:52.141992168Z"
+    created: "2020-12-02T13:06:57.454313734Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -874,7 +901,7 @@ entries:
     version: 0.2.1-develop.45
   - apiVersion: v1
     appVersion: 0.2.1-develop.44
-    created: "2020-12-02T12:09:52.133534947Z"
+    created: "2020-12-02T13:06:57.449547806Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -891,7 +918,7 @@ entries:
     version: 0.2.1-develop.44
   - apiVersion: v1
     appVersion: 0.2.1-develop.43
-    created: "2020-12-02T12:09:52.126639497Z"
+    created: "2020-12-02T13:06:57.443119574Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -908,7 +935,7 @@ entries:
     version: 0.2.1-develop.43
   - apiVersion: v1
     appVersion: 0.2.1-develop.42
-    created: "2020-12-02T12:09:52.118039953Z"
+    created: "2020-12-02T13:06:57.436940903Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -925,7 +952,7 @@ entries:
     version: 0.2.1-develop.42
   - apiVersion: v1
     appVersion: 0.2.1-develop.41
-    created: "2020-12-02T12:09:52.112288657Z"
+    created: "2020-12-02T13:06:57.430848779Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -942,7 +969,7 @@ entries:
     version: 0.2.1-develop.41
   - apiVersion: v1
     appVersion: 0.2.1-develop.40
-    created: "2020-12-02T12:09:52.103735904Z"
+    created: "2020-12-02T13:06:57.423389841Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -959,7 +986,7 @@ entries:
     version: 0.2.1-develop.40
   - apiVersion: v1
     appVersion: 0.2.1-develop.39
-    created: "2020-12-02T12:09:52.098280962Z"
+    created: "2020-12-02T13:06:57.416291733Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -976,7 +1003,7 @@ entries:
     version: 0.2.1-develop.39
   - apiVersion: v1
     appVersion: 0.2.1-develop.38
-    created: "2020-12-02T12:09:52.090570434Z"
+    created: "2020-12-02T13:06:57.411778773Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -993,7 +1020,7 @@ entries:
     version: 0.2.1-develop.38
   - apiVersion: v1
     appVersion: 0.2.1-develop.37
-    created: "2020-12-02T12:09:52.079609698Z"
+    created: "2020-12-02T13:06:57.404102122Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1010,7 +1037,7 @@ entries:
     version: 0.2.1-develop.37
   - apiVersion: v1
     appVersion: 0.2.1-develop.36
-    created: "2020-12-02T12:09:52.073032298Z"
+    created: "2020-12-02T13:06:57.399433445Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1027,7 +1054,7 @@ entries:
     version: 0.2.1-develop.36
   - apiVersion: v1
     appVersion: 0.2.1-develop.35
-    created: "2020-12-02T12:09:52.063479149Z"
+    created: "2020-12-02T13:06:57.392714823Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1044,7 +1071,7 @@ entries:
     version: 0.2.1-develop.35
   - apiVersion: v1
     appVersion: 0.2.1-develop.34
-    created: "2020-12-02T12:09:52.050109633Z"
+    created: "2020-12-02T13:06:57.38733071Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1061,7 +1088,7 @@ entries:
     version: 0.2.1-develop.34
   - apiVersion: v1
     appVersion: 0.2.1-develop.33
-    created: "2020-12-02T12:09:52.043265Z"
+    created: "2020-12-02T13:06:57.38259939Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1078,7 +1105,7 @@ entries:
     version: 0.2.1-develop.33
   - apiVersion: v1
     appVersion: 0.2.1-develop.32
-    created: "2020-12-02T12:09:52.036025846Z"
+    created: "2020-12-02T13:06:57.37520834Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1095,7 +1122,7 @@ entries:
     version: 0.2.1-develop.32
   - apiVersion: v1
     appVersion: 0.2.1-develop.31
-    created: "2020-12-02T12:09:52.024583672Z"
+    created: "2020-12-02T13:06:57.370006001Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1112,7 +1139,7 @@ entries:
     version: 0.2.1-develop.31
   - apiVersion: v1
     appVersion: 0.2.1-develop.30
-    created: "2020-12-02T12:09:52.016535737Z"
+    created: "2020-12-02T13:06:57.363590127Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1129,7 +1156,7 @@ entries:
     version: 0.2.1-develop.30
   - apiVersion: v1
     appVersion: 0.2.1-develop.29
-    created: "2020-12-02T12:09:51.997512908Z"
+    created: "2020-12-02T13:06:57.357748675Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1146,7 +1173,7 @@ entries:
     version: 0.2.1-develop.29
   - apiVersion: v1
     appVersion: 0.2.1-develop.28
-    created: "2020-12-02T12:09:51.988878705Z"
+    created: "2020-12-02T13:06:57.352847396Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1163,7 +1190,7 @@ entries:
     version: 0.2.1-develop.28
   - apiVersion: v1
     appVersion: 0.2.1-develop.27
-    created: "2020-12-02T12:09:51.980127834Z"
+    created: "2020-12-02T13:06:57.345286114Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1180,7 +1207,7 @@ entries:
     version: 0.2.1-develop.27
   - apiVersion: v1
     appVersion: 0.2.1-develop.26
-    created: "2020-12-02T12:09:51.971884142Z"
+    created: "2020-12-02T13:06:57.340169551Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1197,7 +1224,7 @@ entries:
     version: 0.2.1-develop.26
   - apiVersion: v1
     appVersion: 0.2.1-develop.25
-    created: "2020-12-02T12:09:51.963098309Z"
+    created: "2020-12-02T13:06:57.335282328Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1214,7 +1241,7 @@ entries:
     version: 0.2.1-develop.25
   - apiVersion: v1
     appVersion: 0.2.1-develop.24
-    created: "2020-12-02T12:09:51.954098446Z"
+    created: "2020-12-02T13:06:57.32914065Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1231,7 +1258,7 @@ entries:
     version: 0.2.1-develop.24
   - apiVersion: v1
     appVersion: 0.2.1-develop.23
-    created: "2020-12-02T12:09:51.942285859Z"
+    created: "2020-12-02T13:06:57.323248607Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1248,7 +1275,7 @@ entries:
     version: 0.2.1-develop.23
   - apiVersion: v1
     appVersion: 0.2.1-develop.22
-    created: "2020-12-02T12:09:51.935096237Z"
+    created: "2020-12-02T13:06:57.316493832Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1265,7 +1292,7 @@ entries:
     version: 0.2.1-develop.22
   - apiVersion: v1
     appVersion: 0.2.1-develop.21
-    created: "2020-12-02T12:09:51.9279041Z"
+    created: "2020-12-02T13:06:57.308714094Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1282,7 +1309,7 @@ entries:
     version: 0.2.1-develop.21
   - apiVersion: v1
     appVersion: 0.2.1-develop.20
-    created: "2020-12-02T12:09:51.915841287Z"
+    created: "2020-12-02T13:06:57.30148865Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1299,7 +1326,7 @@ entries:
     version: 0.2.1-develop.20
   - apiVersion: v1
     appVersion: 0.2.1-develop.19
-    created: "2020-12-02T12:09:51.907594881Z"
+    created: "2020-12-02T13:06:57.29364679Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1316,7 +1343,7 @@ entries:
     version: 0.2.1-develop.19
   - apiVersion: v1
     appVersion: 0.2.1-develop.18
-    created: "2020-12-02T12:09:51.900726738Z"
+    created: "2020-12-02T13:06:57.288883988Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1333,7 +1360,7 @@ entries:
     version: 0.2.1-develop.18
   - apiVersion: v1
     appVersion: 0.2.1-develop.17
-    created: "2020-12-02T12:09:51.888804766Z"
+    created: "2020-12-02T13:06:57.283977643Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1350,7 +1377,7 @@ entries:
     version: 0.2.1-develop.17
   - apiVersion: v1
     appVersion: 0.2.1-develop.16
-    created: "2020-12-02T12:09:51.881831683Z"
+    created: "2020-12-02T13:06:57.275758772Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1367,7 +1394,7 @@ entries:
     version: 0.2.1-develop.16
   - apiVersion: v1
     appVersion: 0.2.1-develop.15
-    created: "2020-12-02T12:09:51.873063686Z"
+    created: "2020-12-02T13:06:57.27114485Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1384,7 +1411,7 @@ entries:
     version: 0.2.1-develop.15
   - apiVersion: v1
     appVersion: 0.2.1-develop.14
-    created: "2020-12-02T12:09:51.864937338Z"
+    created: "2020-12-02T13:06:57.264062145Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1401,7 +1428,7 @@ entries:
     version: 0.2.1-develop.14
   - apiVersion: v1
     appVersion: 0.2.1-develop.13
-    created: "2020-12-02T12:09:51.857833575Z"
+    created: "2020-12-02T13:06:57.259238177Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1418,7 +1445,7 @@ entries:
     version: 0.2.1-develop.13
   - apiVersion: v1
     appVersion: 0.2.1-develop.12
-    created: "2020-12-02T12:09:51.84535933Z"
+    created: "2020-12-02T13:06:57.254425269Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -1436,9 +1463,9 @@ entries:
   nats-account-server:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-12-02T12:09:52.283417007Z"
+    created: "2020-12-02T13:06:57.579669931Z"
     description: A Helm chart for Kubernetes
-    digest: 3bbaec260b0c00a3c3c671a6b5bb75fe50dca8dc1e632b9989eecf26aabeb799
+    digest: 94d85cbb086e17b41d5d0e82cc2777f38d6d48811791c0c9996467330b2a0c6d
     name: nats-account-server
     urls:
     - https://charts.kubees.io/nats-account-server-0.1.0.tgz
@@ -1446,11 +1473,11 @@ entries:
   nats-server:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-12-02T12:09:52.284140881Z"
+    created: "2020-12-02T13:06:57.580005326Z"
     description: A Helm chart for Kubernetes
-    digest: 8b75203582fdbabb49ba810d4d418b5e3edefd18db34a3d5f9d885ab914bcf24
+    digest: 1be269855b3bacb0d0f07ea9ab9ae8ac880204e12b69c74123e7bd842bd6c49f
     name: nats-server
     urls:
     - https://charts.kubees.io/nats-server-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-02T12:09:51.788777171Z"
+generated: "2020-12-02T13:06:57.210411065Z"
