@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  kubees-helm:
+  - apiVersion: v2
+    appVersion: 0.4.2
+    created: "2023-01-03T09:23:26.403474769Z"
+    dependencies:
+    - condition: global.controlplane
+      name: mongodb
+      repository: https://charts.bitnami.com/bitnami
+      version: 13.5.0
+    - name: nats
+      repository: https://nats-io.github.io/k8s/helm/charts/
+      version: 0.19.1
+    description: Official kubees helm chart
+    digest: cd878be742d44e2bdbe701487c38f294b1527f793072fd1ebe5d4a6d18a0c105
+    name: kubees-helm
+    type: application
+    urls:
+    - kubees-helm-v0.0.0-preview-1574.tgz
+    version: v0.0.0-preview-1574
+generated: "2023-01-03T09:23:26.393128627Z"
