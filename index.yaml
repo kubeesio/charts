@@ -3,7 +3,7 @@ entries:
   kubees-helm:
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T11:11:03.981920781Z"
+    created: "2023-01-23T16:18:38.783939429Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -21,7 +21,7 @@ entries:
     version: 0.4.3-develop.19
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T11:11:03.972062195Z"
+    created: "2023-01-23T16:18:38.774717316Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -39,7 +39,7 @@ entries:
     version: 0.4.3-develop.18
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T11:11:04.011923637Z"
+    created: "2023-01-23T16:18:38.82281785Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -57,7 +57,7 @@ entries:
     version: v0.0.0-preview-1597
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T11:11:04.000235054Z"
+    created: "2023-01-23T16:18:38.813025217Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -75,7 +75,25 @@ entries:
     version: v0.0.0-preview-1574
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T11:11:03.990461968Z"
+    created: "2023-01-23T16:18:38.804226818Z"
+    dependencies:
+    - condition: global.controlplane
+      name: mongodb
+      repository: https://charts.bitnami.com/bitnami
+      version: 13.5.0
+    - name: nats
+      repository: https://nats-io.github.io/k8s/helm/charts/
+      version: 0.19.1
+    description: Official kubees helm chart
+    digest: 4d43417a5bb7a2a30727e7606038adc73afe36dd7845bfcc2fb2ae1293b60546
+    name: kubees-helm
+    type: application
+    urls:
+    - kubees-helm-v0.0.0-preview-1535.tgz
+    version: v0.0.0-preview-1535
+  - apiVersion: v2
+    appVersion: 0.4.2
+    created: "2023-01-23T16:18:38.793747762Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -91,4 +109,4 @@ entries:
     urls:
     - kubees-helm-v0.0.0-develop.tgz
     version: v0.0.0-develop
-generated: "2023-01-23T11:11:03.961932209Z"
+generated: "2023-01-23T16:18:38.764686375Z"
