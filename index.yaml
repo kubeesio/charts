@@ -3,7 +3,7 @@ entries:
   kubees-helm:
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T16:30:23.852321586Z"
+    created: "2023-01-24T10:25:59.128432853Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -21,7 +21,7 @@ entries:
     version: 0.4.3-develop.19
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T16:30:23.842528682Z"
+    created: "2023-01-24T10:25:59.11868752Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -39,7 +39,7 @@ entries:
     version: 0.4.3-develop.18
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T16:30:23.900384503Z"
+    created: "2023-01-24T10:25:59.165415559Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -57,7 +57,7 @@ entries:
     version: v0.0.0-preview-1597
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T16:30:23.886591098Z"
+    created: "2023-01-24T10:25:59.157188284Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -75,7 +75,7 @@ entries:
     version: v0.0.0-preview-1574
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T16:30:23.875482494Z"
+    created: "2023-01-24T10:25:59.146435383Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -93,7 +93,7 @@ entries:
     version: v0.0.0-preview-1535
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-01-23T16:30:23.86493679Z"
+    created: "2023-01-24T10:25:59.137241971Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -103,10 +103,10 @@ entries:
       repository: https://nats-io.github.io/k8s/helm/charts/
       version: 0.19.1
     description: Official kubees helm chart
-    digest: c60100b9c1f592867e2e579ffc599a904b70afc39bf841d8bc50606c869ec3a0
+    digest: e95e2979cb92bfb297e9acdd787c16f865031fe9ae5bfbf5d5935fde96f7cf3d
     name: kubees-helm
     type: application
     urls:
     - kubees-helm-v0.0.0-develop.tgz
     version: v0.0.0-develop
-generated: "2023-01-23T16:30:23.829635378Z"
+generated: "2023-01-24T10:25:59.109510521Z"
