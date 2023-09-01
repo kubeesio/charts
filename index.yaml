@@ -3,7 +3,7 @@ entries:
   kubees-helm:
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.117026499Z"
+    created: "2023-09-01T10:00:19.989510832Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -21,7 +21,7 @@ entries:
     version: 0.4.4-develop.3
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.107274577Z"
+    created: "2023-09-01T10:00:19.981167181Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -39,7 +39,7 @@ entries:
     version: 0.4.4-develop.2
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.097268346Z"
+    created: "2023-09-01T10:00:19.972078725Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -57,7 +57,7 @@ entries:
     version: 0.4.4-develop.1
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.088636461Z"
+    created: "2023-09-01T10:00:19.962604668Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -75,7 +75,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.078724934Z"
+    created: "2023-09-01T10:00:19.953960415Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -93,7 +93,7 @@ entries:
     version: 0.4.3-develop.21
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.068971912Z"
+    created: "2023-09-01T10:00:19.944390857Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -111,7 +111,7 @@ entries:
     version: 0.4.3-develop.20
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.060076218Z"
+    created: "2023-09-01T10:00:19.933070588Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -129,7 +129,7 @@ entries:
     version: 0.4.3-develop.19
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.049386365Z"
+    created: "2023-09-01T10:00:19.923039027Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -147,7 +147,7 @@ entries:
     version: 0.4.3-develop.18
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.125575781Z"
+    created: "2023-09-01T10:00:19.999406092Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -165,7 +165,7 @@ entries:
     version: "0.4"
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.135561911Z"
+    created: "2023-09-01T10:00:20.009051751Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -183,7 +183,7 @@ entries:
     version: "0"
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.206531455Z"
+    created: "2023-09-01T10:00:20.074266748Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -201,7 +201,7 @@ entries:
     version: v0.0.0-preview-1648
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.196775933Z"
+    created: "2023-09-01T10:00:20.065833697Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -219,7 +219,7 @@ entries:
     version: v0.0.0-preview-1646
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.187496326Z"
+    created: "2023-09-01T10:00:20.055929536Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -237,7 +237,7 @@ entries:
     version: v0.0.0-preview-1638
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.178936544Z"
+    created: "2023-09-01T10:00:20.04503757Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -255,7 +255,7 @@ entries:
     version: v0.0.0-preview-1597
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.168869711Z"
+    created: "2023-09-01T10:00:20.036418917Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -273,7 +273,7 @@ entries:
     version: v0.0.0-preview-1574
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.153917517Z"
+    created: "2023-09-01T10:00:20.027444263Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
@@ -291,20 +291,20 @@ entries:
     version: v0.0.0-preview-1535
   - apiVersion: v2
     appVersion: 0.4.2
-    created: "2023-02-22T13:40:50.145339034Z"
+    created: "2023-09-01T10:00:20.017960205Z"
     dependencies:
     - condition: global.controlplane
       name: mongodb
       repository: https://charts.bitnami.com/bitnami
-      version: 13.5.0
+      version: 13.17.2
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
-      version: 0.19.1
+      version: 1.0.2
     description: Official kubees helm chart
-    digest: 620bcf30f26ce8b4d780db05e4e575f8970a396df0276eb0c73fe7279baefb5d
+    digest: 2596c4cc7e0e8d863603de079e23956da9c8516830e4314103c86c8f99df3d0d
     name: kubees-helm
     type: application
     urls:
     - kubees-helm-v0.0.0-develop.tgz
     version: v0.0.0-develop
-generated: "2023-02-22T13:40:50.038585408Z"
+generated: "2023-09-01T10:00:19.911254655Z"
